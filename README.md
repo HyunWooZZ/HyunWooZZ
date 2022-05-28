@@ -6,6 +6,7 @@
 
 
 - 🌱 I’m currently learning about data engineering.
+- 🤔 I’m currently interested in airflow, docker, kubernetes...
 
 
 ### My Blog 🌱
