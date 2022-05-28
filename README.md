@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+#### I am HyunWoo Oh and  Junior Data Engineer.  
+ I love to do tennis, go to hike and learn about new things.  
+ I trust that `Sound Body make Sound Coder.`
+
+
+- 🌱 I’m currently learning about data engineering.
 <!--
 **HyunWooZZ/HyunWooZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
