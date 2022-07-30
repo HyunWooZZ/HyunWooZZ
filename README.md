@@ -1,4 +1,4 @@
-### Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px"></h2>
+### Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h2>
 
  I am HyunWoo Oh and  Junior Data Engineer.   
  I love to do tennis, go for a hike and learn about new things.  
