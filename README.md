@@ -11,7 +11,7 @@
 
 ### My Blog 🌱
 
-I write regular blog posts, most of which you can find on my personal website [https://velog.io/@hyunwoozz](https://velog.io/@hyunwoozz).
+I write blog posts irregularly, most of which you can find on my personal website [https://velog.io/@hyunwoozz](https://velog.io/@hyunwoozz).
 
 <!--
 **HyunWooZZ/HyunWooZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
