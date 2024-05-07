@@ -13,7 +13,7 @@
 
 I write blog posts irregularly, most of which you can find on my personal website [https://velog.io/@hyunwoozz](https://velog.io/@hyunwoozz).
 
-### MyLinkedIn
+### My LinkedIn
 www.linkedin.com/in/현우-오-22005a242
 
 
