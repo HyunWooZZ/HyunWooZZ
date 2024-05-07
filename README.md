@@ -13,6 +13,10 @@
 
 I write blog posts irregularly, most of which you can find on my personal website [https://velog.io/@hyunwoozz](https://velog.io/@hyunwoozz).
 
+### MyLinkedIn
+www.linkedin.com/in/현우-오-22005a242
+
+
 <!--
 **HyunWooZZ/HyunWooZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
